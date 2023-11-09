@@ -11,9 +11,9 @@ URL for BubbleAPI: Coming Soon!
 
 
 
-This is a modified version of TheMechanic57's Carter-Discord-Boilerplate, I have added support for using a ```.env``` file.
+This is a modified version of cipher58's Carter-Discord-Boilerplate, I have added support for using a ```.env``` file.
 
-Link to Original: https://github.com/TheMechanic57/Carter-Discord-Boilerplate
+Link to Original: https://github.com/cipher58/Carter-Discord-Boilerplate
 
 Original ```README.md``` is below:
 
@@ -29,6 +29,6 @@ MIT License, feel free to do whatever you want with this. It's a simple program,
 
 If there are any issues, please do feel free to tell me. I did program this while intensely drunk.
 
-Developed by TheMechanic57 at Sanware Developments.
+Developed by Cipher58 at Sanware Developments.
 
 Jack Franklin
